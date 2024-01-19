@@ -1,0 +1,11 @@
+#mainText{
+    text-align: center;
+    color: white;
+}
+body{
+    background-image: url(Images/Backround_ELA.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
